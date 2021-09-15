@@ -1,0 +1,18 @@
+.color1{
+    background-color: #e7d423; /* color de fondo */
+    text-decoration-color: #5723e7;
+}
+.color2{
+    background-color: rgb(101, 226, 43);  /*color de fondo*/ 
+    height: 100px; 
+}
+.color3{ 
+    border-color: blueviolet;
+}
+.color4{ 
+    border-color: coral;
+
+}.color5{ 
+    background: lightpink;
+    height: 100px;
+}
