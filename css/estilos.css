@@ -4,15 +4,19 @@
 }
 .color2{
     background-color: rgb(101, 226, 43);  /*color de fondo*/ 
-    height: 100px; 
 }
 .color3{ 
     border-color: blueviolet;
 }
 .color4{ 
     border-color: coral;
-
-}.color5{ 
+}
+.color5{ 
     background: lightpink;
 } 
-
+h1{  
+    background: rgb(210, 255, 127);
+}
+h6{
+   background:salmon
+}  
