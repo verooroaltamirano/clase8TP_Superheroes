@@ -1,6 +1,6 @@
 .color1{
     background-color: #e7d423; /* color de fondo */
-    text-decoration-color: #5723e7;
+
 }
 .color2{
     background-color: rgb(101, 226, 43);  /*color de fondo*/ 
@@ -18,5 +18,7 @@ h1{
     background: rgb(210, 255, 127);
 }
 h6{
-   background:salmon
-}  
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:salmon
+} 
