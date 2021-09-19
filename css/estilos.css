@@ -16,6 +16,10 @@
 } 
 .color6{ 
     background-color:rgb(0, 255, 157)
+
+}
+.color7{  
+    background-color: #25CCF7;
 }
 h1{  
     background: rgb(210, 255, 127);
@@ -25,3 +29,7 @@ h6{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background:salmon
 } 
+.sombra:hover{ 
+
+ 
+}
