@@ -1,6 +1,5 @@
 .color1{
     background-color: #e7d423; /* color de fondo */
-
 }
 .color2{
     background-color: rgb(101, 226, 43);  /*color de fondo*/ 
@@ -16,7 +15,6 @@
 } 
 .color6{ 
     background-color:rgb(0, 255, 157)
-
 }
 .color7{  
     background-color: #25CCF7;
@@ -29,5 +27,6 @@ h6{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background:salmon
 } 
-
- 
+.shadow{  
+  box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, -2px -5px 21px 6px rgba(0,0,0,0.43);
+}
