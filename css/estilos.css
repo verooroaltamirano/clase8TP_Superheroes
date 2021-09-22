@@ -17,14 +17,32 @@
     background-color:rgb(0, 255, 157)
 }
 .color7{  
-    background-color: #25CCF7;
+    background: #75f6fa;
 }
 h1{  
-    background: rgb(210, 255, 127);
+background: #CE5937;
+background: -moz-linear-gradient(-45deg, #CE5937 0%, #A44D95 50%, #C59237 100%);
+background: -webkit-linear-gradient(-45deg, #CE5937 0%, #A44D95 50%, #C59237 100%);
+background: linear-gradient(135deg, #CE5937 0%, #A44D95 50%, #C59237 100%);
+}
+h2{ 
+    background-color: #D6A2E8;
+}
+h5{ 
+   background-color:  #25CCF7
 }
 h6{
     font-size: 17px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background:salmon
 } 
- 
+.shadow{  
+   box-shadow: 6px 6px 13px 15px #000000;
+   color: #FFFFFF;
+   background: #ffffff;
+   text-shadow: 2px 2px 0 #4074b5, 2px -2px 0 #4074b5, -2px 2px 0 #4074b5, -2px -2px 0 #4074b5, 2px 0px 0 #4074b5, 0px 2px 0 #4074b5, -2px 0px 0 #4074b5, 0px -2px 0 #4074b5;
+}
+.shadow2{  
+    color: #444444;
+    background: #FFFFFF;
+    text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
