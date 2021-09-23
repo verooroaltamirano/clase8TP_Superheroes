@@ -11,7 +11,7 @@
     border-color: coral;
 }
 .color5{ 
-    background: lightpink;
+    background-color: rgb(230, 203, 207);
 } 
 .color6{ 
     background-color:rgb(0, 255, 157)
@@ -44,4 +44,15 @@ h6{
     box-shadow: 5px 5px 15px 5px #000000;
    color: #FFFFFF;
    text-shadow: 2px 2px 0 #4074b5, 2px -2px 0 #4074b5, -2px 2px 0 #4074b5, -2px -2px 0 #4074b5, 2px 0px 0 #4074b5, 0px 2px 0 #4074b5, -2px 0px 0 #4074b5, 0px -2px 0 #4074b5;
+}
+@media (min-width: 1200px){
+    .desa{
+        display: none;
+    }
+}
+@media (max-width:768px) {
+    .color5{ 
+        background-color: rgb(14, 199, 75);
+    } 
+    
 }
