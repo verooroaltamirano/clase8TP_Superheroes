@@ -31,12 +31,9 @@
             11) 
                 <p class="text-decoration-underline">This text has a line underneath it.</p>
                 <p class="text-decoration-line-through">This text has a line going through it.</p>
-            12)
 
-            13)
-
-            14) display:none esconde contenido
-                display:block visualiza contenido
+             14) display:none oculta contenido
+                 display:block visualiza contenido
 
 
 -->
